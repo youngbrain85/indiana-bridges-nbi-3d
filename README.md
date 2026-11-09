@@ -11,7 +11,7 @@ checked back against the report with the scripts in `tools/`.
 | I-70 EB over Bayliss State Ditch, Morgan Co. | 041750 | 3-span RC slab on solid pier walls, 15° skew, 82 ft, 1966 | `bridges/41750_i70_bayliss` |
 | WB Sagamore Pkwy (US 52) over 9th St, CSX RR and ramp, Lafayette | 019027 | 6-span steel W36 multi-beam viaduct + concrete-beam approach span, 525 ft, 1971 | `bridges/19027_sagamore_pkwy` |
 
-**Live:** [gallery](https://youngbrain85.github.io/indiana-bridges-3d/) · [3D viewer](https://youngbrain85.github.io/indiana-bridges-3d/viewer/)
+**Live:** [gallery](https://youngbrain85.github.io/indiana-bridges-nbi-3d/) · [3D viewer](https://youngbrain85.github.io/indiana-bridges-nbi-3d/viewer/)
 
 ## What is in each bridge folder
 
